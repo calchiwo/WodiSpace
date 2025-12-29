@@ -88,3 +88,9 @@ Every design choice in WodiSpace follows a few principles:
 ## License
 
 [MIT License](LICENSE)
+
+## Author
+
+- **Caleb Wodi**
+- [Twitter](https://x.com/calchiwo)
+- [LinkedIn](https://www.linkedin.com/in/calchiwo)
