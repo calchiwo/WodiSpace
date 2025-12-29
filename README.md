@@ -96,4 +96,4 @@ Every design choice in WodiSpace follows a few principles:
 
 ## License
 
-MIT License (LICENSE)
+[MIT License](LICENSE)
