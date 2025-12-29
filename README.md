@@ -29,12 +29,6 @@ The goal is simple:
 * let the explanation be readable
 * let the science stay intact
 
-No feeds.
-No engagement tricks.
-No unnecessary UI elements.
-
-Just astronomy, clearly presented.
-
 ## What WodiSpace does
 
 * Displays today’s Astronomy Picture of the Day
@@ -52,8 +46,6 @@ Just astronomy, clearly presented.
 
 WodiSpace is a viewer, not a generator.
 
----
-
 ## Data source and attribution
 
 All data shown in WodiSpace comes directly from:
@@ -68,7 +60,6 @@ WodiSpace maintains attribution to:
 
 This project respects NASA’s data usage guidelines.
 
----
 
 ## Design philosophy
 
