@@ -90,7 +90,34 @@ Every design choice in WodiSpace follows a few principles:
 * Tailwind CSS
 * Server-side data fetching
 * NASA APOD API
-
+* 
+## Project Structure
+```bash
+WodiSpace/
+├── app/                # App router pages and layouts
+│   ├── about/          # About page
+│   ├── browse/         # Date browsing feature
+│   ├── api/            # Server routes (APOD fetching)
+│   ├── globals.css     # Global styles
+│   ├── layout.tsx      # Root layout
+│   └── page.tsx        # Home page (today's APOD)
+│
+├── components/         # Reusable UI components
+├── hooks/              # Custom React hooks
+├── lib/                # Utilities and API helpers
+├── public/             # Static assets
+├── styles/             # Additional styling
+├── assets/             # README screenshots
+│
+├── next.config.mjs     # Next.js configuration
+├── postcss.config.mjs  # PostCSS config
+├── tsconfig.json       # TypeScript config
+├── package.json        # Dependencies and scripts
+├── pnpm-lock.yaml      # Package lock file
+├── components.json     # UI config
+├── LICENSE
+└── README.md
+```
 ## License
 
 [MIT License](LICENSE)
