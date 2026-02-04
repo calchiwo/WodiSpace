@@ -5,9 +5,7 @@ export function Navbar() {
     <nav className="border-b border-border bg-card">
       <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
-          <div className="w-8 h-8 bg-accent rounded-lg flex items-center justify-center">
-            <span className="text-xs font-bold text-accent-foreground">◆</span>
-          </div>
+          <img src="/wodispace.png" alt="WodiSpace" className="w-8 h-8" />
           <span className="text-lg font-semibold tracking-tight">WodiSpace</span>
         </Link>
 
