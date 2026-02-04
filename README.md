@@ -4,6 +4,8 @@ WodiSpace is a calm, minimal web app for exploring **NASA Astronomy Picture of t
 
 It presents NASA’s daily astronomical images with clarity, accuracy, and respect for the science behind them.
 
+![APOD December 27 2025](assets/apod-2025-12-27.png)
+
 ## What is APOD?
 
 The **NASA Astronomy Picture of the Day** is a daily feature published by **NASA** since 1995.
