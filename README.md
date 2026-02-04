@@ -108,7 +108,7 @@ WodiSpace/
 ├── public/             # Static assets
 ├── styles/             # Additional styling
 ├── assets/             # README screenshots
-│
+├── wodispace.png       # Project logo / branding image
 ├── next.config.mjs     # Next.js configuration
 ├── postcss.config.mjs  # PostCSS config
 ├── tsconfig.json       # TypeScript config
