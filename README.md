@@ -6,7 +6,7 @@
 
 WodiSpace is an open-source web app for exploring **NASA Astronomy Picture of the Day (APOD)**.
 
-It provides a simple, clean interface that let's you browse NASA’s daily astronomical images
+It provides a simple, clean interface that lets you browse NASA’s daily astronomical images
 
 ![APOD December 27 2025](assets/apod-2025-12-27.png)
 
@@ -17,9 +17,9 @@ It provides a simple, clean interface that let's you browse NASA’s daily astro
 ## About APOD
 
 The **NASA Astronomy Picture of the Day** (APOD) is a daily publication by **NASA** since June 16, 1995.
-It was created by astronomers Robert Nemiroff and Jerry Bonnell at NASA's Goddard Space Flight Center to share daily, annotated images of space with accessible explanations
+It was created by astronomers **Robert Nemiroff** and **Jerry Bonnell** to share daily annotated images of space with accessible explanations
 
-Each day, NASA publish:
+Each day, NASA publishes:
 
 * one astronomical image or video
 * a detailed explanation written by a professional astronomer
@@ -34,8 +34,8 @@ APOD covers galaxies, nebulae, planets, stars, and cosmic phenomena, ranging fro
 * Handles both image and video entries
 * Preserves full attribution to NASA and original photographers and image creators
 * Respects NASA’s data usage guidelines.
-* Uses a dark, calm interface suited for astronomical content
-* with clarity, accuracy, and respect for the science behind them.
+* Uses a distraction free dark interface suited for astronomical content
+* Prioritizes clarity, accuracy, and respect for the science behind them.
 
 ## What WodiSpace does *not* do
 
@@ -52,7 +52,7 @@ All data shown in WodiSpace is fetched live from the official [APOD public API](
 
 ## Design philosophy
 
-Every design choice in WodiSpace follows a few principles I choose deliberately:
+Every design choice in WodiSpace follows principles I choose deliberately:
 
 * **Clarity**
   Large typography and generous spacing improve readability.
@@ -73,6 +73,14 @@ Every design choice in WodiSpace follows a few principles I choose deliberately:
 * Tailwind CSS
 * Server-side data fetching
 * NASA APOD API
+
+## Run Locally
+```bash
+git clone https://github.com/calchiwo/WodiSpace.git
+cd WodiSpace
+pnpm install
+pnpm dev
+```
 
 ## Project Structure
 ```bash
