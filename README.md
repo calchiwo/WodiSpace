@@ -6,6 +6,8 @@ It presents NASA’s daily astronomical images with clarity, accuracy, and respe
 
 ![APOD December 27 2025](assets/apod-2025-12-27.png)
 
+![APOD December 03 2025](assets/apod-2025-12-03.png)
+
 ## What is APOD?
 
 The **NASA Astronomy Picture of the Day** is a daily feature published by **NASA** since 1995.
@@ -17,8 +19,6 @@ Each day, NASA shares:
 * scientific context about the universe
 
 APOD covers galaxies, nebulae, planets, stars, and cosmic phenomena, ranging from events in our solar system to structures billions of light-years away.
-
-![APOD December 03 2025](assets/apod-2025-12-03.png)
 
 ## Why WodiSpace?
 
