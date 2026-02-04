@@ -55,7 +55,7 @@ WodiSpace is a viewer, not a generator.
 All data shown in WodiSpace comes directly from:
 
 * **NASA**
-* The official APOD public API
+* The official [APOD public API](github.com/nasa/apod-api)
 
 WodiSpace maintains attribution to:
 
