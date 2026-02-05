@@ -4,6 +4,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![WodiSapce logo](public/wodispace.png)
+
 WodiSpace is an open-source web app for exploring **NASA Astronomy Picture of the Day (APOD)**.
 
 It provides a simple, clean interface that lets you browse NASA’s daily astronomical images
